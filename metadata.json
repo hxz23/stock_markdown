@@ -1,0 +1,5 @@
+{
+  "name": "Markdown Pro with Live Cards",
+  "description": "A split-pane Markdown editor featuring custom live data cards (Charts, Stock Info) and Gemini AI-powered content generation.",
+  "requestFramePermissions": []
+}
